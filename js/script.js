@@ -48,8 +48,8 @@ function troll2() {
     const y = document.getElementById("fbut4");
     x.style.display = "none";
     y.style.display = "none";
-    document.getElementById("alert").innerHTML = "iuuuuuuuuuuuuuuuuuuuuuuuuuuu";
-    document.getElementById("alert2").innerHTML = "Siuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu";
+    document.getElementById("alert").innerHTML = "uuuuuuuuuuuuuuuuuuuuuuu";
+    document.getElementById("alert2").innerHTML = "Siuuuuuuuuuuuuuuuuuuuuuu";
     return false;
 }
 function inrel() {
