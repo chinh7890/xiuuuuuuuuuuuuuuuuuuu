@@ -48,8 +48,8 @@ function troll2() {
     const y = document.getElementById("fbut4");
     x.style.display = "none";
     y.style.display = "none";
-    document.getElementById("alert").innerHTML = "<33333333333333333333";
-    document.getElementById("alert2").innerHTML = "Em mà thoát trang Web này hay Trêu anh là em đồng ý nha 😛";
+    document.getElementById("alert").innerHTML = "iuuuuuuuuuuuuuuuuuuuuuuuuuuu";
+    document.getElementById("alert2").innerHTML = "Siuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu";
     return false;
 }
 function inrel() {
@@ -63,13 +63,13 @@ function inrel() {
     b.style.display = "none";
     z.style.display = "none";
     c.innerHTML = "";
-    c.innerHTML = " Đã nói hong có gì mà hong tin ";
+    c.innerHTML = " Neu Chin la so 1 thi Quyen chac chan la so cutee ";
     y.style.display = "none";
     x.style.display = "inline";
     document.getElementById("audio2").pause();
     document.getElementById("audio3").play();
     document.getElementById("alert2").innerHTML = "";
-    document.getElementById("des").innerHTML = "Dỡn thoiii.... Nói thiệt lòng nè.... Thanh Trúc cho anh... đứng kế Thanh Trúc nhaaaaaâ <3";
+    document.getElementById("des").innerHTML = "Chuc Quyenn Noel zui zeeeeeeeeeeeee";
 
     return false;
 
@@ -100,7 +100,7 @@ function inrel3() {
     return false;
 }
 function inrel4() {
-    window.location.href = "RoseForThanhTruc.html";
+    window.location.href = "indexTree.html";
     document.getElementById("click").style.display = "none";
     document.getElementById("yess").style.display = "none";
     document.getElementById("form1").style.display = "none";
@@ -111,6 +111,6 @@ function inrel4() {
     return false;
 }
 function trollalt() {
-    document.getElementById("alert2").innerHTML = "Tui biết tui là cục cưng rùi =))";
+    document.getElementById("alert2").innerHTML = "ok Chin la Cuc Cung ^^";
     return false;
 }
