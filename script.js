@@ -390,7 +390,8 @@ class World {
     });
 
     const sprite = new THREE.Sprite(material);
-    sprite.scale.set(6, 1.5, 1);
+    sprite.scale.set(3, 1.1, 1);
+
     sprite.position.set(0, 0.5, 0);
     sprite.renderOrder = 999999;
     material.depthWrite = false;
